@@ -37,6 +37,7 @@
 #include <unistd.h>
 #include <poll.h>
 #include <dlfcn.h>
+#include <time.h>
 
 #include <sys/ioctl.h>
 #include <linux/ioctl.h>

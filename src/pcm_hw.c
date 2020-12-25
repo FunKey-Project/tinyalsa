@@ -35,6 +35,7 @@
 #include <errno.h>
 #include <unistd.h>
 #include <poll.h>
+#include <time.h>
 
 #include <sys/ioctl.h>
 #include <sys/mman.h>

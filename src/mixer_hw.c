@@ -38,6 +38,7 @@
 #include <errno.h>
 #include <ctype.h>
 #include <poll.h>
+#include <time.h>
 
 #include <sys/ioctl.h>
 
